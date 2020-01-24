@@ -1,0 +1,60 @@
+{
+	"battery capacity": "8000",
+	"slots":"5",
+	"energy forcast":[
+			{
+				"slot":"1",
+				"energy":"3000",
+				"renewable energy": "3500"
+			},
+			{
+				"slot":"2",
+				"energy":"5000",
+				"renewable energy": "4500"
+			},
+			{
+				"slot":"3",
+				"energy":"2000",
+				"renewable energy": "2500"
+			},
+			{
+				"slot":"4",
+				"energy":"4000",
+				"renewable energy": "2500"
+			},
+			{
+				"slot":"5",
+				"energy":"2000",
+				"renewable energy": "5500"
+			}],
+	"devices":
+		{
+			"number": 5,
+			"devices":[
+				{
+					"name" : "TV",
+					"consumption": 300,
+					"priority": 3
+				},
+				{
+					"name" : "lamps",
+					"consumption": 500,
+					"priority": 2
+				},
+				{
+					"name" : "fridge",
+					"consumption": 300,
+					"priority": 1
+				},
+				{
+					"name" : "laptop",
+					"consumption": 400,
+					"priority": 2
+				},
+				{
+					"name" : "hair dryer",
+					"consumption": 500,
+					"priority": 3
+				}]
+		}
+}
