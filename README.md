@@ -1,1 +1,1 @@
-# Smart-Grid-Local-Problem-using-COP-modelization
+# COP modelization of smart grid local problem using Choco solver
